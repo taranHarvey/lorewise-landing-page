@@ -1,0 +1,23 @@
+{
+  "name": "lorewise-landing-page",
+  "version": "1.0.0",
+  "description": "Lorewise AI Writing Platform - Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static HTML - no build needed'",
+    "start": "echo 'Static HTML - serve with any web server'"
+  },
+  "keywords": [
+    "lorewise",
+    "ai",
+    "writing",
+    "platform",
+    "landing-page"
+  ],
+  "author": "Taran Harvey",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taranHarvey/lorewise-landing-page.git"
+  }
+}
